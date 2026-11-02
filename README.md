@@ -2,7 +2,7 @@
 
 The sound board for **Vortex Control**, a vertical pinball machine that is still in progress. An [Adafruit Audio FX Sound Board](https://www.adafruit.com/category/196) mounts on top, and an AVR16DU28 turns signals from the main board into trigger presses on the Audio FX board's trigger pins.
 
-Board: Vortex Control Audio PCB REV 0.2, designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB-Only Builds](https://justdif.com/pcb-only-builds/) page. The other Vortex Control boards: [Vortex-Score-Display](https://github.com/JustDifferentCreations/Vortex-Score-Display) and [Vortex-Motor-Driver](https://github.com/JustDifferentCreations/Vortex-Motor-Driver).
+Board: Vortex Control Audio PCB REV 0.2, designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB Projects](https://justdif.com/pcb-projects/) page. The other Vortex Control boards: [Vortex-Score-Display](https://github.com/JustDifferentCreations/Vortex-Score-Display) and [Vortex-Motor-Driver](https://github.com/JustDifferentCreations/Vortex-Motor-Driver).
 
 ## How it works
 
